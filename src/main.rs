@@ -1,7 +1,7 @@
 #![deny(clippy::all)]
 
 fn main() {
-    println!("Hello, world!");
+    pint!("Hello, world!\n");
 }
 
 #[test]
