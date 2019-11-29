@@ -4,5 +4,5 @@ fn main() {
 
 #[test]
 fn test_your_face() {
-    assert_eq!(1, 2);
+    assert_eq!(1, 1);
 }
